@@ -1,0 +1,6 @@
+[package]
+name = "pinebuds_pro_v1_glue"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
