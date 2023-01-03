@@ -1,0 +1,6 @@
+[submodule "PineBuds_Pro_SDK/Upstream"]
+	path = PineBuds_Pro_SDK/Upstream
+	url = https://github.com/pine64/OpenPineBuds
+[submodule "PineBuds_Pro_SDK/Open-Morphs-Fork"]
+	path = PineBuds_Pro_SDK/Open-Morphs-Fork
+	url = https://github.com/open-morphs/OpenPineBuds
